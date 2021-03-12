@@ -1,6 +1,4 @@
-//Regan Setter
-//Student ID 3505894
-//Computer Science 206
+//Regan 
 //February 25th, 2021
 
 #include <iostream>
